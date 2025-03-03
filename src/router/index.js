@@ -1,4 +1,4 @@
-import Contador from '@/components/Contador.vue'
+import Contador from '../components/Contador.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 
